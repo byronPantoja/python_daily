@@ -1,20 +1,20 @@
-# My Python Daily
-Updates of my daily learnings in Python.
+My Python Daily
+===
+*Updates of my daily learnings in Python.*
 
-## **QUARTER 1 PYTHON GOALS**
-___
-### CURATED COURSE WORK
-___
-### ZTM Python Developer
-- [ ] Complete course by **Feb. 15**
-  - **Monday to Friday from 7am to 9am** *(10min break/hr)*
+**Note:**Prioritizing the JS_daily goals
+---
 
-### The Modern Python 3 Bootcamp
-- [ ] Complete course by **Mar. 31**
-  - 135+/- Coding Exercises
-  - **Work on this Every day for 1 hour**
-  - Complete at least **1 a day**
+QUARTER 1 PYTHON GOALS
+---
+#### *Courses to Complete/study*
 
-### ZTM Machine Learning & Data Science
-- [ ] Complete course by **Mar. 15**
-  -  **Monday to Friday from 3pm to 5pm** *(10min break/hr)*
+1. #### The Modern Python Developer
+      - [ ] Complete Exercises daily
+2. #### ZTM Python Developer
+      - [ ] Complete course by **Mar. 31**
+        - schedule after JS goals are complete
+
+3. #### ZTM Machine Learning & Data Science
+      - [ ] Complete course by **Mar. 15**
+        - schedule after JS goals are complete
