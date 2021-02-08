@@ -1,4 +1,4 @@
-My Python Daily
+My Python Goals
 ===
 *Updates of my daily learnings in Python.*
 
