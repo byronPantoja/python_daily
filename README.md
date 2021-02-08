@@ -1,6 +1,6 @@
 My Python Goals
 ===
-*Updates of my daily learnings in Python.*
+*Updates of my learnings in Python.*
 
 **Note:**Prioritizing the JS_daily goals
 ---
