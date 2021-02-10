@@ -1,4 +1,4 @@
-My Python Daily
+My Python Goals
 ===
 *Updates of my learnings in Python.*
 
@@ -18,3 +18,6 @@ Courses to Study
       - Find time to complete (Not a priority)
 3. #### The Modern Python Developer : Use for ref & excercises
 
+1. #### ZTM Machine Learning & Data Science
+      - [ ] Complete course by **Mar. 15**
+        - schedule after JS goals are complete
