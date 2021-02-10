@@ -1,20 +1,20 @@
 My Python Daily
 ===
-*Updates of my daily learnings in Python.*
+*Updates of my learnings in Python.*
 
-**Note:**Prioritizing the JS_daily goals
+---
+PYTHON GOALS
+---
+  1. Learn Machine Learning in Python
+  2. Learn how I can use Python to improve my skill set
+
+---
+Courses to Study
 ---
 
-QUARTER 1 PYTHON GOALS
----
-#### *Courses to Complete/study*
-
-1. #### The Modern Python Developer
-      - [ ] Complete Exercises daily
+1. #### ZTM Machine Learning & Data Science
+   - Complete **Sections 6 & 7** by **Feb. 28**
 2. #### ZTM Python Developer
-      - [ ] Complete course by **Mar. 31**
-        - schedule after JS goals are complete
+      - Find time to complete (Not a priority)
+3. #### The Modern Python Developer : Use for ref & excercises
 
-3. #### ZTM Machine Learning & Data Science
-      - [ ] Complete course by **Mar. 15**
-        - schedule after JS goals are complete
